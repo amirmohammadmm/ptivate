@@ -87,6 +87,26 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+
+
+   main.private{
+    width:100%;
+    height:100vh;
+    background-image: url(../img/istockphoto-1144604245-612x612.jpg);
+    background-position:center;
+    background-size:cover;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+   }
+   section.dream{
+    width:500px;
+    height:300px;
+    background-color:white;
+   }
+
+
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
